@@ -1,0 +1,36 @@
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Assets\info.txt
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\DataAccess.dll
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Facebook.Client.dll
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Facebook.dll
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Hammock.WindowsPhone.dll
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\RestSharp.WindowsPhone.dll
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\DataAccess.pdb
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+D:\visual studio 2012\Projects\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Assets\info.txt
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\DataAccess.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Facebook.Client.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Facebook.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\Hammock.WindowsPhone.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\RestSharp.WindowsPhone.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\Bin\Debug\DataAccess.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.csprojResolveAssemblyReference.cache
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\Assets\info.txt
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\DataAccess.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\Facebook.Client.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\Facebook.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\Hammock.WindowsPhone.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\RestSharp.WindowsPhone.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\Bin\Debug\DataAccess.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.csprojResolveAssemblyReference.cache
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb

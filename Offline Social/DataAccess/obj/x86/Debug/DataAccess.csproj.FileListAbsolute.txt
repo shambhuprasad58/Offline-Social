@@ -1,0 +1,10 @@
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\obj\x86\Debug\DataAccess.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\x86\Debug\Assets\info.txt
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\x86\Debug\DataAccess.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\x86\Debug\DataAccess.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\obj\x86\Debug\DataAccess.dll
+G:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\x86\Debug\Assets\info.txt
+G:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\x86\Debug\DataAccess.dll
+G:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\x86\Debug\DataAccess.pdb
+G:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\obj\x86\Debug\DataAccess.dll
+G:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\obj\x86\Debug\DataAccess.pdb

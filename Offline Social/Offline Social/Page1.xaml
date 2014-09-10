@@ -1,0 +1,76 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Offline_Social.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:SlideTransition Mode="SlideRightFadeIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:SlideTransition Mode="SlideLeftFadeIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:SlideTransition Mode="SlideRightFadeOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:SlideTransition Mode="SlideLeftFadeOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" >
+        <Grid.Background>
+            <ImageBrush ImageSource="assets\2.jpg" Opacity="1" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Offline Social" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Customize" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+        </Grid>
+
+        <toolkit:DatePicker  x:Name="startdate" Header="Start Date" Value="9/25/2020" Foreground="#FFFFFF" Background="Black" Margin="10,116,39,334" Grid.Row="1" />
+        <toolkit:TimePicker x:Name="starttime" Header="Start Time" ValueStringFormat="{}{0:T}" Foreground="#FFFFFF" Background="#000000" Margin="10,221,39,214" Grid.Row="1" />
+        
+
+        <toolkit:DatePicker x:Name="expdate" Header="Expiry Date" Value="9/25/2020" Foreground="#FFFFFF" Background="Black" Margin="10,326,39,117" Grid.Row="1" />
+        <toolkit:TimePicker x:Name="exptime" Header="Expiray Time" ValueStringFormat="{}{0:T}" Foreground="#FFFFFF" Background="#000000" Margin="10,423,39,20" Grid.Row="1" />
+
+        <Image Source="assets\fbsmall.png" Name="fbsmall" HorizontalAlignment="Left" Height="63" Margin="145,52,0,0" Grid.Row="1" VerticalAlignment="Top" Width="62" RenderTransformOrigin="0.415,0.778" Visibility="Collapsed"/>
+        <Image Source="assets\twsmall.png" Name="twsmall" HorizontalAlignment="Left" Height="63" Margin="212,52,0,0" Grid.Row="1" VerticalAlignment="Top" Width="62" RenderTransformOrigin="0.415,0.778" Visibility="Collapsed"/>
+        <Image Source="assets\ldsmall.png" Name="ldsmall" HorizontalAlignment="Left" Height="63" Margin="279,52,0,0" Grid.Row="1" VerticalAlignment="Top" Width="62" RenderTransformOrigin="0.415,0.778" Visibility="Collapsed"/>
+
+
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar Mode="Default" Opacity="1.0" IsMenuEnabled="False" IsVisible="True">
+            <shell:ApplicationBarIconButton Click="back_Tap" IconUri="/Assets/back.png" Text="back" />
+            <shell:ApplicationBarIconButton Click="next_Tap" IconUri="/Assets/next.png" Text="next" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

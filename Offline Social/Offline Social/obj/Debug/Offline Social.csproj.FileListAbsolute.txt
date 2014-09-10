@@ -1,0 +1,249 @@
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\info.txt
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\ApplicationIcon.png
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Offline Social.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Offline Social.pdb
+d:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\AppManifest.xaml
+d:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Offline_Social_Debug_AnyCPU.xap
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\DataAccess.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\DataAccess.pdb
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.pdb
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.pdb
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.pdb
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.xml
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.csprojResolveAssemblyReference.cache
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\App.g.cs
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\FeedsBrowser.g.cs
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\MainPage.g.cs
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page0.g.cs
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page1.g.cs
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page2.g.cs
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page3.g.cs
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\webbrowser.g.cs
+D:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.g.resources
+D:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline_Social.Resources.AppResources.resources
+D:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.csproj.GenerateResource.Cache
+D:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.dll
+D:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.pdb
+d:\visual studio 2012\Projects\Offline Social\Offline Social\obj\Debug\XapCacheFile.xml
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\info.txt
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Offline Social.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Offline Social.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\AppManifest.xaml
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Offline_Social_Debug_AnyCPU.xap
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\DataAccess.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\DataAccess.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.xml
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.csprojResolveAssemblyReference.cache
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\App.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\FeedsBrowser.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\MainPage.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page0.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page1.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page2.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Page3.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\QueuedUpdates.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\webbrowser.g.cs
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.g.resources
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline_Social.Resources.AppResources.resources
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.csproj.GenerateResource.Cache
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.dll
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\Offline Social.pdb
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\XapCacheFile.xml
+C:\Users\Rohit Saraf\Documents\Visual Studio 2012\Projects\Offline Social\Offline Social\obj\Debug\pivot.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\info.txt
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Offline Social.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Offline Social.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\AppManifest.xaml
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Offline_Social_Debug_AnyCPU.xap
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\DataAccess.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\DataAccess.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.xml
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\FeedsBrowser.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\MainPage.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page0.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page1.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page2.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page3.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\pivot.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\QueuedUpdates.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\webbrowser.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.g.resources
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline_Social.Resources.AppResources.resources
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.dll
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\XapCacheFile.xml
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\info.txt
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Offline Social.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Offline Social.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\AppManifest.xaml
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Offline_Social_Debug_AnyCPU.xap
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\DataAccess.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\TweetSharp.WindowsPhone.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\DataAccess.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Hammock.WindowsPhone.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\RestSharp.WindowsPhone.xml
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\TweetSharp.WindowsPhone.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.csprojResolveAssemblyReference.cache
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\App.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\FeedsBrowser.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\MainPage.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page0.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page1.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page2.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Page3.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\pivot.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\QueuedUpdates.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\webbrowser.g.cs
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.g.resources
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline_Social.Resources.AppResources.resources
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.csproj.GenerateResource.Cache
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\Offline Social.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\Offline Social\obj\Debug\XapCacheFile.xml

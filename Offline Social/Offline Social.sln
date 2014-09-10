@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Offline Social", "Offline Social\Offline Social.csproj", "{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduledTaskAgent1", "ScheduledTaskAgent1\ScheduledTaskAgent1.csproj", "{3B62FC81-0329-483F-996E-E1D66D3C4094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|ARM.Build.0 = Debug|ARM
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|x86.ActiveCfg = Debug|x86
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|x86.Build.0 = Debug|x86
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Debug|x86.Deploy.0 = Debug|x86
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|ARM.ActiveCfg = Release|ARM
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|ARM.Build.0 = Release|ARM
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|ARM.Deploy.0 = Release|ARM
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|x86.ActiveCfg = Release|x86
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|x86.Build.0 = Release|x86
+		{4DA8F9C5-B237-4AF8-8713-D38EE7A3622C}.Release|x86.Deploy.0 = Release|x86
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Debug|ARM.Build.0 = Debug|ARM
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Debug|x86.ActiveCfg = Debug|x86
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Debug|x86.Build.0 = Debug|x86
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Release|ARM.ActiveCfg = Release|ARM
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Release|ARM.Build.0 = Release|ARM
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Release|x86.ActiveCfg = Release|x86
+		{3B62FC81-0329-483F-996E-E1D66D3C4094}.Release|x86.Build.0 = Release|x86
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Debug|ARM.Build.0 = Debug|ARM
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Debug|x86.ActiveCfg = Debug|x86
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Debug|x86.Build.0 = Debug|x86
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Release|ARM.ActiveCfg = Release|ARM
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Release|ARM.Build.0 = Release|ARM
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Release|x86.ActiveCfg = Release|x86
+		{C4DCB361-416E-4496-8B2B-69BAF3B03F9C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

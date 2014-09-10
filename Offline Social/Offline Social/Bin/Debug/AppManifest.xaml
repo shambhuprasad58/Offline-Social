@@ -1,0 +1,16 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Offline Social" EntryPointType="Offline_Social.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Offline Social" Source="Offline Social.dll" />
+    <AssemblyPart x:Name="DataAccess" Source="DataAccess.dll" />
+    <AssemblyPart x:Name="Facebook.Client" Source="Facebook.Client.dll" />
+    <AssemblyPart x:Name="Facebook" Source="Facebook.dll" />
+    <AssemblyPart x:Name="Hammock.WindowsPhone" Source="Hammock.WindowsPhone.dll" />
+    <AssemblyPart x:Name="ICSharpCode.SharpZipLib.WindowsPhone" Source="ICSharpCode.SharpZipLib.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="RestSharp.WindowsPhone" Source="RestSharp.WindowsPhone.dll" />
+    <AssemblyPart x:Name="ScheduledTaskAgent1" Source="ScheduledTaskAgent1.dll" />
+    <AssemblyPart x:Name="TweetSharp.WindowsPhone" Source="TweetSharp.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+  </Deployment.Parts>
+</Deployment>

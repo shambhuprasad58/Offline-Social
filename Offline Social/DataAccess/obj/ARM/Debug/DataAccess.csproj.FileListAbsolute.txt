@@ -1,0 +1,5 @@
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\ARM\Debug\Assets\info.txt
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\ARM\Debug\DataAccess.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\Bin\ARM\Debug\DataAccess.pdb
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\obj\ARM\Debug\DataAccess.dll
+C:\Users\shambhu\Documents\Visual Studio 2013\Projects\Offline Social_947 (1)\Offline Social\DataAccess\obj\ARM\Debug\DataAccess.pdb
